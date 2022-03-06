@@ -15,6 +15,8 @@ The admin/Fleet manager is able to track the entire convoy of buses , with avail
 - React Native
 - Expo CLI
 - Expo adjoint system call libraries (***location***)
+- Go (Backend)
+- Heroku (Hosting API)
 
 ## Note: **To run our application in an built APK format we would need a Google maps API key.**
 ### Steps to run the application
